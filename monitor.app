@@ -1,3 +1,3 @@
-promethus
+prometheus
 grafana
 newrelic
