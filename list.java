@@ -1,6 +1,6 @@
 # List of users
-# simon 
-# peter
-# paul
-# chi
-ope
+ simon 
+ peter
+ paul
+ chi
+ ope
